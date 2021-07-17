@@ -23,7 +23,7 @@ url: [https://www.coursera.org/learn/cloud-machine-learning-engineering-mlops-du
 
 document: [https://docs.aws.amazon.com/apprunner/latest/dg/getting-started.html#getting-started.create](https://docs.aws.amazon.com/apprunner/latest/dg/getting-started.html#getting-started.create)
 
-![](app runner.png)
+![](app%20runner.png)
 
 ⇒ App Runner sẽ nhận sourrce là container hoặc source code từ github ⇒ build và chạy 1 app service
 
