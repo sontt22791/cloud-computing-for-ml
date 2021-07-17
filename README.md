@@ -3,6 +3,20 @@ Building Cloud Computing Solutions at Scale Specialization - Coursera
 
 [Coursera | Online Courses & Credentials From Top Educators. Join for Free | Coursera](https://www.coursera.org/learn/cloud-machine-learning-engineering-mlops-duke/home/welcome)
 
+# Cloud Machine Learning Engineering and MLOps
+
+## Jupyter Notebook Workflow
+1. Workflow jupyter notebook
+https://paiml.com/docs/home/books/cloud-computing-for-data/chapter07-managed-ml/#jupyter-notebook-workflow
+
+Note
+```
+1. jupyter notebook có thể linter và test như script python (sử dụng các extension như nbQA for linter,
+nbrequirements for dependencies, nbval for pytest)
+https://towardsdatascience.com/4-tools-for-reproducible-jupyter-notebooks-d7423721bd04
+```
+
+
 # Week 1
 
 Student example:
