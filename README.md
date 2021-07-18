@@ -26,8 +26,6 @@ Student example:
 - [YouTube Caption Sentiment and Stock Comparison Architect](https://github.com/Cloblak/youtube_sentiment_stock_prediction)
 - [IMDB Data Analytics in GCP](https://github.com/DeanHuang-Git/imdb_analytics)
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e07c0d21-0d6a-4bb3-9756-ecd15ca519ff/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e07c0d21-0d6a-4bb3-9756-ecd15ca519ff/Untitled.png)
-
 Các serverless của cloud providers trong CD
 ![](serverless.png)
 
